@@ -181,3 +181,20 @@ span {
     padding: 0px 10px;
     border-color: rgb(226, 226, 226) transparent transparent;
 }
+
+.thumbnail-box {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  margin-bottom: 16px;
+}
+
+.thumb-info {
+  width: 50%;
+  padding-left: 8px;
+  margin: 0px;
+}
+
+.mini-video{
+  margin: 5px;
+}
