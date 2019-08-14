@@ -198,3 +198,34 @@ span {
 .mini-video{
   margin: 5px;
 }
+
+.margin {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: black;
+}
+
+select {
+  background-color: #DDD;
+}
+
+.line {
+  cursor: pointer;
+  width: 100%;
+  color: rgb(118, 118, 118);
+  box-shadow: none;
+  display: block;
+  outline: invert none 0px;
+  border-width: 1px;
+  border-style: solid;
+  margin: 10px 0px -15px;
+  padding-top: 10px;
+  border-color: rgb(226, 226, 226) transparent transparent;
+}
+
+.small-letter {
+  margin-top: 5px;
+  font-size: 12px;
+}
